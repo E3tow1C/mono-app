@@ -12,6 +12,13 @@ GIT
     catalog (0.1.0)
       rails (>= 8.0.2)
 
+GIT
+  remote: https://github.com/thanakorn-b/pricing
+  revision: 4e875ed4920f9c1bdd24eceb59a542e59c13e502
+  specs:
+    pricing (0.1.0)
+      rails (>= 8.0.2.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -386,6 +393,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
+  pricing!
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.2)
