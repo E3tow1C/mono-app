@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/ohmarsyx/e-commerce-rails
-  revision: 1764c7ee58ce8e16aab8e3af03b2f742f4d776fa
+  remote: https://github.com/ohmarsyx/e-commerce-catalog
+  revision: 997ead896b303272dfc34db91e32b7534b0895d5
   specs:
     catalog (0.1.0)
       rails (>= 8.0.2)

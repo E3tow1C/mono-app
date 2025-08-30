@@ -62,6 +62,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "catalog", git: "https://github.com/ohmarsyx/e-commerce-rails"
+gem "catalog", git: "https://github.com/ohmarsyx/e-commerce-catalog"
 # gem "pricing", git: ""
 # gem "cart", git: ""
