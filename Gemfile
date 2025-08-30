@@ -64,4 +64,4 @@ end
 
 gem "catalog", git: "https://github.com/ohmarsyx/e-commerce-catalog"
 # gem "pricing", git: ""
-# gem "cart", git: ""
+gem "e-commerce-cart", git: "https://github.com/dewOdds/e-commerce-cart"

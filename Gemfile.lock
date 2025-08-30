@@ -1,4 +1,11 @@
 GIT
+  remote: https://github.com/dewOdds/e-commerce-cart
+  revision: 291801fdbbad52228b897674458bb31845a26cd2
+  specs:
+    e-commerce-cart (0.1.0)
+      rails (>= 8.0.2)
+
+GIT
   remote: https://github.com/ohmarsyx/e-commerce-catalog
   revision: 997ead896b303272dfc34db91e32b7534b0895d5
   specs:
@@ -375,6 +382,7 @@ DEPENDENCIES
   capybara
   catalog!
   debug
+  e-commerce-cart!
   importmap-rails
   jbuilder
   kamal
