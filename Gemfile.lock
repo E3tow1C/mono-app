@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/ohmarsyx/e-commerce-rails
+  revision: 1764c7ee58ce8e16aab8e3af03b2f742f4d776fa
+  specs:
+    catalog (0.1.0)
+      rails (>= 8.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -366,6 +373,7 @@ DEPENDENCIES
   bootsnap
   brakeman
   capybara
+  catalog!
   debug
   importmap-rails
   jbuilder
